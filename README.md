@@ -1,18 +1,21 @@
 # Imersão Dev_ Back-end | Alura + Gemini 🤿
 
-![Topo README.md](profile_img/Imerso_Back-endGemini_Notion.webp)
 ![Topo README.md](profile_img/WALLPAPER_Horizontal_BACK-END.png)
 
 ## Projeto: Instabytes 📷
 
-Projeto de um servidor back-end de um blog de fotos desenvolvido durante a [Imersão Dev Back-end](https://cursos.alura.com.br/imersao) da [Alura](https://www.alura.com.br/) em parceria com o Google Gemini, realizada em novembro de 2024.
+Projeto de um servidor back-end de um blog de fotos desenvolvido durante a [Imersão Dev Back-end](https://cursos.alura.com.br/imersao) da [Alura](https://www.alura.com.br/) em parceria com o [Google Gemini](https://gemini.google.com/?hl=pt-BR), realizada em novembro de 2024.
+
+<hr>
 
 ### Objetivo: 🎯
 
 O foco do projeto foi fazer um sistema back-end responsável por fazer a comunicação entre o front-end e o banco de dados na nuvem. Após isso, tirar o projeto do servidor local e subir em um servidor na nuvem.
----
 
-### Tecnologias usadas: 👨‍💻🧰🛠️
+<hr>
+
+### Tecnologias usadas: 🧰🛠️
+<br>
 
 <div id="techs-list" align="center">
 
@@ -29,11 +32,9 @@ O foco do projeto foi fazer um sistema back-end responsável por fazer a comunic
 
 <hr> 
 
-<div id="aulas" align="left">
+### Conteúdo das aulas 📚📝
 
-<summary><h3>Conteúdo das aulas 📚📝</h3></summary>
-
-<div id="aulas-list" align="center">
+<div id="aulas-list" align="left">
 <details>
 <summary><h4> AULA #01 - Desvendando APIs e Servidores</h4></summary>
 <li>Conhecer o projeto de blog de fotos;</li>
@@ -81,8 +82,11 @@ Criar a sua API Key do Gemini.</li>
 </details>
 </div>
 
-</div>
+<hr>
 
+## 🧑‍💻 Desenvolvido por: 
 
+**Wellington Morais | [Perfil no GitHub](https://github.com/wellingtonmnf)**
 
-
+* **Deploy: 25/11/2024**
+* **Última atualização: 26/11/2024**
