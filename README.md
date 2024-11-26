@@ -1,27 +1,27 @@
-# Imersão Dev_ Back-end | Alura + Gemini 🤿
+# 🤿 Imersão Dev_ Back-end | Alura + Gemini 
 
 ![Topo README.md](profile_img/WALLPAPER_Horizontal_BACK-END.png)
 
-## Projeto: Instabytes 📷
+## 📷 Projeto: Instabytes 
 
 Projeto de um servidor back-end de um blog de fotos desenvolvido durante a [Imersão Dev Back-end](https://cursos.alura.com.br/imersao) da [Alura](https://www.alura.com.br/) em parceria com o [Google Gemini](https://gemini.google.com/?hl=pt-BR), realizada em novembro de 2024.
 
 <hr>
 
-### Objetivo: 🎯
+### 🎯 Objetivo: 
 
 O foco do projeto foi fazer um sistema back-end responsável por fazer a comunicação entre o front-end e o banco de dados na nuvem. Após isso, tirar o projeto do servidor local e subir em um servidor na nuvem.
 
 <hr>
 
-### Tecnologias usadas: 🧰🛠️
+### 🛠️ Tecnologias usadas: 
 <br>
 
 <div id="techs-list" align="center">
 
 ![JavaScript Badge](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&labelColor=999999&logo=JavaScript&logoColor=white)
 ![Node.js Badge](https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&labelColor=999999&logo=nodedotjs&logoColor=white) 
-![Dotenv Badge](https://img.shields.io/badge/dotenv-ECD53F?style=for-the-badge&labelColor=999999&logo=dotenv&logoColor=white) 
+![Dotenv Badge](https://img.shields.io/badge/.env-ECD53F?style=for-the-badge&labelColor=999999&logo=dotenv&logoColor=white) 
 ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&labelColor=999999&logo=mongodb&logoColor=white)
 ![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&labelColor=999999&logo=postman&logoColor=white)
 ![Insomnia Badge](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&labelColor=999999&logo=insomnia&logoColor=white)
@@ -32,7 +32,7 @@ O foco do projeto foi fazer um sistema back-end responsável por fazer a comunic
 
 <hr> 
 
-### Conteúdo das aulas 📚📝
+### 📚 Conteúdo das aulas 
 
 <div id="aulas-list" align="left">
 <details>
@@ -41,7 +41,7 @@ O foco do projeto foi fazer um sistema back-end responsável por fazer a comunic
 <li>Instalar o Node.js;</li>
 <li>Aprender o que é um servidor;</li>
 <li>Criar e subir um servidor;</li>
-Criar a sua API Key do Gemini.</li>
+<li>Criar a sua API Key do Gemini.</li>
 </details>
 
 <details>
@@ -60,14 +60,14 @@ Criar a sua API Key do Gemini.</li>
 <li>Criar variáveis de ambiente;</li>
 <li>Conectar o Banco com a API via String de conexão;</li>
 <li>Criar código de configuração do banco na API;</li>
-<li>Refatoração do primeiro get;</li>
+<li>Refatoração do primeiro <code>GET</code>;</li>
 </details>
 
 <details>
 <summary><h4>AULA #04 - Implementando Armazenamento e Upload de Imagens</h4></summary>
 <li>Enviar informações para a sua base de dados;</li>
 <li>Aprender sobre verbos HTTP;</li>
-<li>Criar a rota POST/post e POST/upload;</li>
+<li>Criar a rota <code>POST/post</code> e <code>POST/upload</code>;</li>
 <li>Implementar o upload de imagens;</li>
 <li>Testar a API com thunderClient e Postman;</li>
 </details>
@@ -75,7 +75,7 @@ Criar a sua API Key do Gemini.</li>
 <details>
 <summary><h4>AULA #05 - Publicando na Google Cloud: Configuração de API e Integração com Gemini</h4></summary>
 <li>Fazer a lógica de armazenamento de imagens no servidor;</li>
-<li>Criar a rota PUT para atualização de post;</li>
+<li>Criar a rota <code>PUT</code> para atualização de post;</li>
 <li>Integrar com o Frontend;</li>
 <li>Integrar com a API do Gemini;</li>
 <li>Fazer o deploy do back-end na Google Cloud.</li>
